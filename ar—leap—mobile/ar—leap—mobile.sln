@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ar—leap—mobile", "Assembly-CSharp.csproj", "{18E1B2BC-3CBC-55DD-26EC-558A1CD40F6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ar—leap—mobile", "Assembly-CSharp-Editor.csproj", "{B7B6C8B3-DE97-691D-530F-F84D8E3B987E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18E1B2BC-3CBC-55DD-26EC-558A1CD40F6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18E1B2BC-3CBC-55DD-26EC-558A1CD40F6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18E1B2BC-3CBC-55DD-26EC-558A1CD40F6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18E1B2BC-3CBC-55DD-26EC-558A1CD40F6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7B6C8B3-DE97-691D-530F-F84D8E3B987E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7B6C8B3-DE97-691D-530F-F84D8E3B987E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7B6C8B3-DE97-691D-530F-F84D8E3B987E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7B6C8B3-DE97-691D-530F-F84D8E3B987E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
